@@ -12,8 +12,8 @@ I am an economist and researcher working on agricultural economics, food markets
 ## Current appointments
 
 - **2026–present:** Economist, Regulatory Authority for Waste, Energy and Water (RAAEY), Greece.
-- **2024–present:** Postdoctoral Researcher, Hellenic Open University, Greece.
 - **2025–present:** Adjunct Lecturer, University of Patras, Greece.
+- **2024–present:** Postdoctoral Researcher, Hellenic Open University, Greece.
 
 ## Previous research appointments
 
