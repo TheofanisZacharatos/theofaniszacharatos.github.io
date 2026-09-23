@@ -1,64 +1,63 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Theofanis Zacharatos, PhD
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+I am an economist and researcher working on agricultural economics, food markets, consumer behaviour, and sustainable agri-food systems.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Current appointments
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **2026–present:** Economist, Regulatory Authority for Waste, Energy and Water (RAAEY), Greece.
+- **2024–present:** Postdoctoral Researcher, Hellenic Open University, Greece.
+- **2025–present:** Adjunct Lecturer, University of Patras, Greece.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Previous research appointments
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **2026:** Visiting Scholar, University of Tuscia, Italy.
+- **2025-2026:** Researcher, Research Laboratory on Socio-Economic and Environmental Sustainability (ReSEES), Athens University of Economics and Business.
+- **2024–2025:** Researcher, Sustainable Development Unit, Athena Research Center.
+- **2022–2026:** Scientific Associate in Agricultural Economics and Development, Region of Western Greece.
+
+## Education
+
+- **PhD, University of Patras, 2024.** Doctoral thesis: *Food Waste and the Greek Consumer: An Empirical Study of Consumer Behaviour*. [View thesis](https://doi.org/10.12681/eadd/56890).
+- **MSc in Banking, Hellenic Open University, 2019.**
+- **MBA in Food Business Management, University of Patras, 2014.**
+- **BSc in Economics, University of Ioannina, 2012.**
+
+## Research interests
+
+- Agricultural economics and policy
+- Food markets and consumer behaviour
+- Food marketing and pricing
+- Food waste prevention
+- Sustainable agri-food systems
+
+## Selected research projects
+
+- **2025–2026:** Regional Support Mechanism for Climate Change Adaptation in Crete, Hellenic Mediterranean University.
+- **2025:** SOILCRATES: Soil Innovation Labs — Co-Regenerating and Transforming European Soil, Athens University of Economics and Business.
+- **2024–2025:** JustReDI: Resilience, Inclusion and Development for a Just Green and Digital Transition in Greek Regions, Athena Research Center.
+- **2021–2022:** Research and awareness campaign to reduce food waste in Greek households (FWAC), University of Patras.
+- **2019:** GREENUS, an Erasmus+ project on waste management and recycling, Sapienza University of Rome.
+
+## Scholarships
+
+- **2019:** EIT Climate-KIC research fellowship, Sapienza University of Rome.
+- **2021:** Teaching support programme, University of Patras.
+
+## Full academic record
+
+- [Publications](/publications/)
+- [Teaching](/teaching/)
+- [Conference presentations, invited talks, and media appearances](/talks/)
+
+## Contact
+
+[theof.zacharatos@upatras.gr](mailto:theof.zacharatos@upatras.gr) ·
+[Google Scholar](https://scholar.google.com/citations?user=vtOlaWEAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-0852-5712)
