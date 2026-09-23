@@ -17,8 +17,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Talks"
+  - title: "Conference Presentations & Invited Talks"
     url: /talks/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "CV"
     url: /cv/
