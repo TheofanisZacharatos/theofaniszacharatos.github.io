@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+[Download my full CV (PDF)](/files/Theofanis_Zacharatos_CV_English.pdf)
+
 # Theofanis Zacharatos, PhD
 
 I am an economist and researcher working on agricultural economics, food markets, consumer behaviour, and sustainable agri-food systems.
