@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title : "Theofanis Zacharatos, PhD"
 name : &name "Theofanis Zacharatos"
 description : &description "Research in agricultural economics, food markets, consumer behaviour, and sustainable agri-food systems."
-url : "https://theofaniszacharatos.github.io"
+url : "https://www.theofaniszacharatos.com"
 baseurl : ""
 repository : "TheofanisZacharatos/theofaniszacharatos.github.io"
 
