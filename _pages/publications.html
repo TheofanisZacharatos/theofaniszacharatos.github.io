@@ -5,32 +5,84 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Peer-reviewed journal articles</h2>
 
-{% include base_path %}
+<ol>
+  <li>
+    Zacharatos, T., Coletti, G., Dellis, K., &amp; Koundouri, P. (2026).
+    Reducing post-harvest food losses as a pathway towards net-zero agriculture:
+    Socioeconomic and environmental insights from FABLE modeling.
+    <em>npj Sustainable Agriculture, 4</em>(1), 46.
+    <a href="https://doi.org/10.1038/s44264-026-00165-6">https://doi.org/10.1038/s44264-026-00165-6</a>
+  </li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <li>
+    Zacharatos, T., &amp; Theodoridis, P. (2026).
+    The role of knowledge and attitudes in consumers’ food waste behavior:
+    An exploratory structural model.
+    <em>Humanities and Social Sciences Communications, 13</em>, Article 1235.
+    <a href="https://doi.org/10.1057/s41599-026-07614-0">https://doi.org/10.1057/s41599-026-07614-0</a>
+  </li>
 
+  <li>
+    Zacharatos, T., &amp; Theodoridis, P. (2026).
+    Household used frying oil management in Greece’s agri-food system:
+    Consumer-side disposal choices and resource-recovery potential.
+    <em>Circular Economy and Sustainability</em>.
+    <a href="https://doi.org/10.1007/s43615-026-01139-z">https://doi.org/10.1007/s43615-026-01139-z</a>
+  </li>
 
+  <li>
+    Zacharatos, T., &amp; Theodoridis, P. (2026).
+    Sustainability in Motion: The Evolution of Global Environmental Policy
+    from Commitments to Measurable Action.
+    <em>Encyclopedia, 6</em>(3), 64.
+    <a href="https://doi.org/10.3390/encyclopedia6030064">https://doi.org/10.3390/encyclopedia6030064</a>
+  </li>
 
+  <li>
+    Poulis, A., Theodoridis, P., &amp; Zacharatos, T. (2026).
+    Green Branding in the Digital Era: The Role of Influencer Credibility
+    and Greenwashing in Shaping Brand Authenticity, Trust and Purchase Intentions.
+    <em>Sustainability, 18</em>(1), 451.
+    <a href="https://doi.org/10.3390/su18010451">https://doi.org/10.3390/su18010451</a>
+  </li>
+
+  <li>
+    Koundouri, P., Akinsete, E., Alamanos, A., Brouwer, R., Frantzi, S.,
+    Landis, C., Papadaki, L., Sari, H. D., &amp; Zacharatos, T. (2025).
+    Policy note: Advancing water policy in Europe: Addressing challenges
+    in the Southeast Mediterranean within the Water Futures Project.
+    <em>Water Economics and Policy</em>.
+    <a href="https://doi.org/10.1142/S2382624X25710043">https://doi.org/10.1142/S2382624X25710043</a>
+  </li>
+
+  <li>
+    Zacharatos, T., &amp; Theodoridis, P. (2025).
+    Consumer Behaviour and Food Waste in Greece: Insights from 2012 to 2024.
+    <em>Encyclopedia, 5</em>(2), 42.
+    <a href="https://doi.org/10.3390/encyclopedia5020042">https://doi.org/10.3390/encyclopedia5020042</a>
+  </li>
+
+  <li>
+    Zacharatos, T., &amp; Theodoridis, P. (2025).
+    From Plate to Bin: Consumer Segments and Food Waste in Greece.
+    <em>Waste, 3</em>(1), 2.
+    <a href="https://doi.org/10.3390/waste3010002">https://doi.org/10.3390/waste3010002</a>
+  </li>
+
+  <li>
+    Theodoridis, P., Zacharatos, T., &amp; Boukouvala, M. (2024).
+    Consumer behaviour and household food waste in Greece.
+    <em>British Food Journal, 126</em>(3), 965–994.
+    <a href="https://doi.org/10.1108/BFJ-02-2023-0141">https://doi.org/10.1108/BFJ-02-2023-0141</a>
+  </li>
+
+  <li>
+    Theodoridis, P., &amp; Zacharatos, T. (2022).
+    Food waste during Covid-19 lockdown period and consumer behaviour –
+    The case of Greece.
+    <em>Socio-Economic Planning Sciences, 83</em>, 101338.
+    <a href="https://doi.org/10.1016/j.seps.2022.101338">https://doi.org/10.1016/j.seps.2022.101338</a>
+  </li>
+</ol>
