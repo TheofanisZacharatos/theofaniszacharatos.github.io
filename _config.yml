@@ -21,7 +21,8 @@ repository : "TheofanisZacharatos/theofaniszacharatos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar : 
+  avatar :
+  bluesky :
   name : "Theofanis Zacharatos"
   bio : "Adjunct Lecturer and Postdoctoral researcher working on agricultural economics, food markets, consumer behaviour, and sustainable agri-food systems."
   location : "Patras, Greece"
@@ -54,8 +55,8 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : 
+  facebook         : "fanis.zaxaratos"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -63,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "thzacharatos"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,7 +72,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "FanisZacharatos"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
