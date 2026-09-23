@@ -26,9 +26,9 @@ I am an economist and researcher working on agricultural economics, food markets
 
 ## Education
 
-- **PhD, University of Patras, 2024.** Doctoral thesis: *Food Waste and the Greek Consumer: An Empirical Study of Consumer Behaviour*. [View thesis](https://doi.org/10.12681/eadd/56890).
-- **MSc in Banking, Hellenic Open University, 2019.**
-- **MBA in Food Business Management, University of Patras, 2014.**
+- **PhD, University of Patras, 2024.** Doctoral thesis: *Food Waste and the Greek Consumer: An Empirical Study of Consumer Behaviour*. **Original in Greek.** [View thesis](https://doi.org/10.12681/eadd/56890).
+- **MSc in Banking, Hellenic Open University, 2019.** Master's thesis: *Green Investments and Green Sovereign Bonds: Examining Green Bond Returns*. **Original in Greek.** [View thesis](https://apothesis.eap.gr/archive/item/148749).
+- **MBA in Food Business Management, University of Patras, 2014.** Master's thesis: *Causes and Drivers of Food Waste*. **Original in Greek.** [View thesis](https://nemertes.library.upatras.gr/handle/10889/8562).
 - **BSc in Economics, University of Ioannina, 2012.**
 
 ## Research interests
