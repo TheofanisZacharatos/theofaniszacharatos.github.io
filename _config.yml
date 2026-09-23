@@ -21,7 +21,7 @@ repository : "TheofanisZacharatos/theofaniszacharatos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar :
+  avatar : "Profile_Pic.png"
   bluesky :
   name : "Theofanis Zacharatos"
   bio : "Adjunct Lecturer and Postdoctoral researcher working on agricultural economics, food markets, consumer behaviour, and sustainable agri-food systems."
