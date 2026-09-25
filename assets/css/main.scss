@@ -37,3 +37,27 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.home-olive-photo {
+  display: block;
+  width: min(100%, 320px);
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+  margin: 0 0 1.5rem;
+}
+
+@media screen and (min-width: 1650px) {
+  .page__content {
+    position: relative;
+  }
+
+  .home-olive-photo {
+    position: absolute;
+    top: -3rem;
+    left: calc(100% + 7rem);
+    width: 300px;
+    height: 450px;
+    margin: 0;
+  }
+}
