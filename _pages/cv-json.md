@@ -31,10 +31,11 @@ I am an economist and researcher working on agricultural economics, food markets
 
 ## Research interests
 
-- Agricultural economics and policy
+- Agricultural and food economics
+- Agricultural policy
 - Food markets and consumer behaviour
 - Food marketing and pricing
-- Food waste prevention
+- Food loss and waste prevention
 - Sustainable agri-food systems
 
 ## Selected research projects
