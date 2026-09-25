@@ -44,7 +44,7 @@ I have served as a peer reviewer for the following journals, grouped by publishe
 
 ### Award evaluation
 
-- **Reviewer (2026):** [Agricultural and Food Economics](https://link.springer.com/journal/40100) Best Paper Award Committee.
+- **Reviewer, Best Paper Award Committee (2026):** [Agricultural and Food Economics](https://link.springer.com/journal/40100), **Springer Nature**.
 
 ## Professional associations and networks
 
