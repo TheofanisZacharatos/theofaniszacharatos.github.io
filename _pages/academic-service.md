@@ -30,6 +30,7 @@ I have served as a peer reviewer for the following journals, grouped by publishe
 
 - [Waste Management Bulletin](https://www.sciencedirect.com/journal/waste-management-bulletin)
 - [Food and Humanity](https://www.sciencedirect.com/journal/food-and-humanity)
+- [Cleaner Food Systems](https://www.sciencedirect.com/journal/cleaner-food-systems)
 
 ### Emerald Publishing
 
