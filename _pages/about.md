@@ -15,10 +15,11 @@ I received my PhD from the University of Patras in 2024. In 2026, I was a Visiti
 
 ## Research interests
 
-- Agricultural economics and policy
+- Agricultural and food economics
+- Agricultural policy
 - Food markets and consumer behaviour
 - Food marketing and pricing
-- Food waste prevention
+- Food loss and food waste prevention
 - Sustainable agri-food systems
 
 ## Academic profiles
