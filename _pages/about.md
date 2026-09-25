@@ -11,7 +11,7 @@ I am an Adjunct Lecturer at the University of Patras and a Postdoctoral Research
 
 My research examines how economic pressures and consumer decisions shape food systems. Current interests include agricultural input costs and policy, food prices and purchasing behaviour, household food waste, and the transition towards more sustainable production and consumption. I use quantitative evidence to connect these questions with practical implications for policy and the agri-food sector.
 
-I received my PhD from the University of Patras in 2024. In 2026, I was a Visiting Scholar at the University of Tuscia, Italy. I have also contributed to research and policy work on regional agricultural development in Western Greece.
+I received my PhD from the University of Patras in 2024. In 2026, I was a Visiting Scholar at the University of Tuscia, Italy. I have contributed to research and policy work on regional agricultural development in Western Greece. I also serve as a [European Climate Pact Ambassador for Greece](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/theofanis-zacharatos_en) and contribute to academic publishing as a guest editor and peer reviewer. [Explore my academic roles and engagement](/academic-service/).
 
 ## Research interests
 
