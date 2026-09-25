@@ -57,8 +57,9 @@
     top: -3rem;
     left: calc(100% + 1.5rem);
     width: 220px;
-    height: 690px;
+    height: calc(100% + 3rem);
     margin: 0;
+    object-fit: cover;
 
     -webkit-mask-image:
       linear-gradient(to right, transparent, #000 6%, #000 94%, transparent),
@@ -76,6 +77,5 @@
   .home-olive-photo {
     left: calc(100% + 7rem);
     width: 300px;
-    height: 690px;
   }
 }
