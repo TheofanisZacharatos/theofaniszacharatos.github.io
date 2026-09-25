@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to my website.
+
 I am an Adjunct Lecturer at the University of Patras and a Postdoctoral Researcher at the Hellenic Open University. My work brings together agricultural economics, food markets, consumer behaviour, and the sustainability of agri-food systems.
 
 My research examines how economic pressures and consumer decisions shape food systems. Current interests include agricultural input costs and policy, food prices and purchasing behaviour, household food waste, and the transition towards more sustainable production and consumption. I use quantitative evidence to connect these questions with practical implications for policy and the agri-food sector.
