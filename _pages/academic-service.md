@@ -5,6 +5,8 @@ permalink: /academic-service/
 author_profile: true
 ---
 
+My academic and professional engagement includes editorial work, peer review, participation in research and professional networks, and policy and sustainability initiatives. These activities complement my research and teaching and help connect academic evidence with practice.
+
 ## Editorial roles
 
 - **Guest Editor (2025–2026):** Special issue “Addressing Food Loss and Waste Across the Food Supply Chain,” [Journal of Agribusiness in Developing and Emerging Economies](https://www.emeraldgrouppublishing.com/journal/jadee), Emerald Publishing.
