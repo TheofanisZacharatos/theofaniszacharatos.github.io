@@ -59,8 +59,16 @@
     width: 220px;
     height: 690px;
     margin: 0;
-    -webkit-mask-image: radial-gradient(ellipse closest-side, #000 72%, transparent 100%);
-    mask-image: radial-gradient(ellipse closest-side, #000 72%, transparent 100%);
+
+    -webkit-mask-image:
+      linear-gradient(to right, transparent, #000 6%, #000 94%, transparent),
+      linear-gradient(to bottom, transparent, #000 3%, #000 97%, transparent);
+    -webkit-mask-composite: source-in;
+
+    mask-image:
+      linear-gradient(to right, transparent, #000 6%, #000 94%, transparent),
+      linear-gradient(to bottom, transparent, #000 3%, #000 97%, transparent);
+    mask-composite: intersect;
   }
 }
 
