@@ -1,3 +1,7 @@
+{% include base_path %}
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} Theofanis Zacharatos.
+  &copy; {{ site.time | date: '%Y' }} Theofanis Zacharatos
+  &middot; Site last updated {{ site.time | date: '%d %B %Y' }}
+  &middot; <a href="{{ base_path }}/sitemap/">Sitemap</a>
+  &middot; <a href="mailto:{{ site.author.email }}">Contact</a>
 </div>
