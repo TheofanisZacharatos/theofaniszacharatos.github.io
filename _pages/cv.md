@@ -19,7 +19,7 @@ I am an economist and researcher working on agricultural economics, food markets
 
 ## Previous research appointments
 
-- **2026:** Visiting Scholar, University of Tuscia, Italy.
+- **2026:** Visiting Scholar, Department of Economics, Engineering, Society and Business Organization, University of Tuscia, Italy.
 - **2025-2026:** Researcher, Research Laboratory on Socio-Economic and Environmental Sustainability (ReSEES), Athens University of Economics and Business.
 - **2024–2025:** Researcher, Sustainable Development Unit, Athena Research Center.
 - **2022–2026:** Scientific Associate in Agricultural Economics and Development, Region of Western Greece.
@@ -49,8 +49,8 @@ I am an economist and researcher working on agricultural economics, food markets
 
 ## Scholarships
 
-- **2019:** EIT Climate-KIC research fellowship, Sapienza University of Rome.
 - **2021:** Teaching support programme, University of Patras.
+- **2019:** EIT Climate-KIC research fellowship, Sapienza University of Rome.
 
 ## Full academic record
 
