@@ -34,4 +34,4 @@ I received my PhD from the University of Patras in 2024. In 2026, I was a Visiti
 
 ## Academic profiles
 
-[Google Scholar](https://scholar.google.com/citations?user=vtOlaWEAAAAJ) · [ORCID](https://orcid.org/0000-0002-0852-5712)
+[Google Scholar](https://scholar.google.com/citations?user=vtOlaWEAAAAJ) · [ORCID](https://orcid.org/0000-0002-0852-5712) · [ResearchGate](https://www.researchgate.net/profile/Theofanis-Zacharatos)
