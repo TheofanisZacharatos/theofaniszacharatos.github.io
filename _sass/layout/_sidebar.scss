@@ -16,13 +16,13 @@
   @media (orientation: portrait) {
     margin-top: 1em;
   }
-
+   
   @media screen and (min-width: $sidebar-screen-min-width) {
   height: auto;
   overflow: visible;
   position: static;
-  padding-top: 0;
- }
+  padding-top: 0 !important;
+  }
 
   @include breakpoint($large) {
     @include span(2 of 12);
