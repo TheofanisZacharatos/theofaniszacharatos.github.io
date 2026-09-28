@@ -13,9 +13,15 @@ My research examines how economic pressures and consumer decisions shape food sy
 
 I received my PhD from the University of Patras in 2024. In 2026, I was a Visiting Scholar at the University of Tuscia, Italy. I have contributed to research and policy work on regional agricultural development in Western Greece. I also serve as a [European Climate Pact Ambassador for Greece](https://climate-pact.europa.eu/meet-community/climate-pact-ambassadors/theofanis-zacharatos_en) and contribute to academic publishing as a guest editor and peer reviewer. [Explore my academic roles and engagement](/academic-service/).
 
-<img class="home-olive-photo"
-     src="{{ '/images/frank-albrecht-k-ICgGQLdkM-unsplash.jpg' | relative_url }}"
-     alt="Olive branches with green olives in natural light">
+<figure class="home-olive-feature">
+  <img class="home-olive-photo"
+       src="{{ '/images/frank-albrecht-k-ICgGQLdkM-unsplash.jpg' | relative_url }}"
+       alt="Olive branches with green olives in natural light">
+
+  <figcaption class="home-olive-quote">
+    Sustainable food systems begin with understanding how food is grown, priced, consumed and wasted.
+  </figcaption>
+</figure>
      
 ## Research interests
 
