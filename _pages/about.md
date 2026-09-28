@@ -19,7 +19,7 @@ I received my PhD from the University of Patras in 2024. In 2026, I was a Visiti
        alt="Olive branches with green olives in natural light">
 
   <figcaption class="home-olive-quote">
-    Sustainable food systems begin with understanding how food is grown, priced, consumed and wasted.
+    "Sustainable food systems begin with understanding how food is grown, priced, consumed and wasted."
   </figcaption>
 </figure>
      
