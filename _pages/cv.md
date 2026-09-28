@@ -61,5 +61,4 @@ I am an economist and researcher working on agricultural economics, food markets
 ## Contact
 
 [theof.zacharatos@upatras.gr](mailto:theof.zacharatos@upatras.gr) ·
-[Google Scholar](https://scholar.google.com/citations?user=vtOlaWEAAAAJ) ·
-[ORCID](https://orcid.org/0000-0002-0852-5712)
+[theofanis.zacharatos@ac.eap.gr](mailto:theofanis.zacharatos@ac.eap.gr)
