@@ -28,6 +28,10 @@ I have served as a peer reviewer for the following journals, grouped by publishe
 
 - [Corporate Social Responsibility and Environmental Management](https://onlinelibrary.wiley.com/journal/15353966)
 
+### Taylor & Francis
+
+- [Journal of International Food & Agribusiness Marketing](https://www.tandfonline.com/journals/wifa20)
+  
 ### Elsevier
 
 - [Waste Management Bulletin](https://www.sciencedirect.com/journal/waste-management-bulletin)
