@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my full CV (PDF)](/files/Theofanis_Zacharatos_CV_English.pdf)
+[Download my full CV (PDF)](/files/Theofanis_Zacharatos_CV_English_October_2026.pd
 
 # Theofanis Zacharatos, PhD
 
