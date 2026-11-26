@@ -31,6 +31,7 @@ I have served as a peer reviewer for the following journals, grouped by publishe
 ### Taylor & Francis
 
 - [Journal of International Food & Agribusiness Marketing](https://www.tandfonline.com/journals/wifa20)
+- [Climate Policy](https://www.tandfonline.com/journals/tcpo20)
   
 ### Elsevier
 
