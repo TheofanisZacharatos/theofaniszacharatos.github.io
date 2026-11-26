@@ -27,6 +27,7 @@ I have served as a peer reviewer for the following journals, grouped by publishe
 ### Wiley
 
 - [Corporate Social Responsibility and Environmental Management](https://onlinelibrary.wiley.com/journal/15353966)
+- [International Journal of Consumer Studies](https://onlinelibrary.wiley.com/journal/14706431)
 
 ### Taylor & Francis
 
