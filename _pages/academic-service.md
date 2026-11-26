@@ -14,7 +14,7 @@ My academic and professional engagement includes editorial work, peer review, pa
 
 ## Peer-review service
 
-I have served as a peer reviewer for more than 18 **international academic journals**, grouped by publisher below.
+I have served as a peer reviewer for more than **18 international academic journals**, grouped by publisher below.
 
 ### Springer Nature
 
