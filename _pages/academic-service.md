@@ -50,6 +50,7 @@ I have served as a peer reviewer for more than **18 international academic journ
 - [Frontiers in Environmental Economics](https://www.frontiersin.org/journals/environmental-economics)
 - [Frontiers in Sustainability](https://www.frontiersin.org/journals/sustainability)
 - [Frontiers in Communication](https://www.frontiersin.org/journals/communication)
+- [Frontiers in Nutrition](https://www.frontiersin.org/journals/nutrition)
 
 ### Award evaluation
 
